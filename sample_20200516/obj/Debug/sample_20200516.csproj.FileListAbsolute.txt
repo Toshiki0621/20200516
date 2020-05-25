@@ -1,0 +1,7 @@
+C:\Users\TosikiTatebe\source\repos\sample_20200516\sample_20200516\bin\Debug\sample_20200516.exe.config
+C:\Users\TosikiTatebe\source\repos\sample_20200516\sample_20200516\bin\Debug\sample_20200516.exe
+C:\Users\TosikiTatebe\source\repos\sample_20200516\sample_20200516\bin\Debug\sample_20200516.pdb
+C:\Users\TosikiTatebe\source\repos\sample_20200516\sample_20200516\obj\Debug\sample_20200516.csprojAssemblyReference.cache
+C:\Users\TosikiTatebe\source\repos\sample_20200516\sample_20200516\obj\Debug\sample_20200516.csproj.CoreCompileInputs.cache
+C:\Users\TosikiTatebe\source\repos\sample_20200516\sample_20200516\obj\Debug\sample_20200516.exe
+C:\Users\TosikiTatebe\source\repos\sample_20200516\sample_20200516\obj\Debug\sample_20200516.pdb
